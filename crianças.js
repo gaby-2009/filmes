@@ -1,8 +1,8 @@
 // Chance aleatória de um sussurro ao mover o mouse
   if (Math.random() > 0.997) {
     playRandomWhisper();
-  }
-});
+  };
+
 
 // Lista de sussurros
 const whispers = [
